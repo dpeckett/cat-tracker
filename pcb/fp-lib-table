@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "EBYTE LORA")(type "Altium Designer")(uri "${HOME}/.local/share/kicad/7.99/footprints/E77-400M22S.PcbLib")(options "")(descr "LORA Module"))
+)
